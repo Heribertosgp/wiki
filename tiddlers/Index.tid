@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 created: 20220913135742704
 creator: TidGiUser
 modified: 20220913135807266
@@ -7,3 +8,14 @@ title: Index
 type: text/vnd.tiddlywiki
 
 This is my welcome page
+=======
+created: 20220913135121167
+creator: TidGiUser
+modified: 20220913135144602
+modifier: TidGiUser
+tags: 
+title: Index
+type: text/vnd.tiddlywiki
+
+This should be my welcome page
+>>>>>>> 6c9213c (Updated with Git-Sync)
